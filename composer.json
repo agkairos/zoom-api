@@ -1,0 +1,17 @@
+{
+    "name": "weslley/zoom",
+	
+      "type": "composer",
+      "url": "https://repository.usabilitydynamics.com",
+    "authors": [
+        {
+            "name": "Weslley Dutra",
+            "email": "contato@agenciakairos.com.br"
+        }
+    ],
+    "require": {
+	"composer/installers": "~1.0",
+        "firebase/php-jwt": "^5.1",
+        "guzzlehttp/guzzle": "^6.5"
+	}
+}
